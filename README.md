@@ -1,5 +1,4 @@
 # DA_Project
-Here are the direct answers to selected IPL analytics questions from the user's Python file:
 
 - The team that has won the **most tosses** is shown by `matches_df['toss_winner'].value_counts()`.[1]
 - After winning the toss, the most common decision is displayed by `matches_df['toss_decision'].value_counts()`. The bar chart shows whether **batting** or **fielding** is the preferred choice.[1]
